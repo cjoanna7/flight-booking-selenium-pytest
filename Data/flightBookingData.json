@@ -1,0 +1,28 @@
+{
+  "data" : [
+    {
+      "fromPlace" : "Portland",
+      "toPlace": "London",
+      "airline" : "United Airlines",
+      "cardType" : "amex",
+      "name" : "test",
+      "address" : "123 Main St.",
+      "city" : "Tillamook",
+      "state" : "Portland",
+      "postalcode" : "98765",
+      "cardNum" : "9876543210987654"
+    },
+    {
+      "fromPlace" : "Boston",
+      "toPlace": "Rome",
+      "airline" : "Lufthansa",
+      "cardType" : "visa",
+      "name" : "test1",
+      "address" : "123 Main St.",
+      "city" : "Massachusetts",
+      "state" : "Boston",
+      "postalcode" : "98765",
+      "cardNum" : "9876543210987653"
+    }
+  ]
+}
